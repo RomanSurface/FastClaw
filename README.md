@@ -29,7 +29,7 @@ curl -fsSL https://raw.githubusercontent.com/RomanSurface/FastClaw/main/scripts/
 > A **second window** will open showing the VM booting. **Don't touch it** — it will configure itself and start automatically when ready.
 
 <p align="center">
-  <img src="assets/screenshot-install.png" alt="Fastclaw installation" width="700" />
+  <img src="assets/screenshot-install.jpeg" alt="Fastclaw installation" width="550" />
 </p>
 
 That's it. The script installs everything you need, pulls the VM image, and launches OpenClaw.
